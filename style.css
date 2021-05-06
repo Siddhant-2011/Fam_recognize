@@ -1,0 +1,13 @@
+.header{
+    font-size: 30;
+    width:80%;
+    background-color: salmon;
+    border-color: black;
+}
+body{
+    background-color: lightcoral;
+}
+.a{
+    color:indianred;
+    border: 1px solid indianred;
+}
